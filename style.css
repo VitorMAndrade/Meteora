@@ -1,0 +1,25 @@
+.texto-menor{
+    font-size: 13px;
+}
+.div-facilidade{
+    width: 325px;
+}
+.verde-facilidades{
+    color: #DAFF01;
+}
+.btn-lilas{
+    background-color: #9353FF;
+}
+.btn-lilas:hover{
+    background-color: #7123f8;
+}
+
+.posicao{
+    margin-top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        margin-top: 60%;
+    }
+}
